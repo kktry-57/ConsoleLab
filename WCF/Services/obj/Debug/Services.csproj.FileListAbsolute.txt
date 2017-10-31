@@ -1,0 +1,5 @@
+D:\MyTFS\ConsoleLab\WCF\Services\bin\Debug\Services.dll
+D:\MyTFS\ConsoleLab\WCF\Services\bin\Debug\Services.pdb
+D:\MyTFS\ConsoleLab\WCF\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+D:\MyTFS\ConsoleLab\WCF\Services\obj\Debug\Services.dll
+D:\MyTFS\ConsoleLab\WCF\Services\obj\Debug\Services.pdb

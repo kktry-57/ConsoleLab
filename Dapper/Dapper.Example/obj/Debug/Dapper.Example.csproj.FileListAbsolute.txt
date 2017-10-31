@@ -1,0 +1,9 @@
+D:\MyTFS\ConsoleLab\Dapper\Dapper.Example\bin\Debug\Dapper.Example.exe.config
+D:\MyTFS\ConsoleLab\Dapper\Dapper.Example\bin\Debug\Dapper.Example.exe
+D:\MyTFS\ConsoleLab\Dapper\Dapper.Example\bin\Debug\Dapper.Example.pdb
+D:\MyTFS\ConsoleLab\Dapper\Dapper.Example\bin\Debug\Dapper.dll
+D:\MyTFS\ConsoleLab\Dapper\Dapper.Example\bin\Debug\Dapper.xml
+D:\MyTFS\ConsoleLab\Dapper\Dapper.Example\obj\Debug\Dapper.Example.csprojResolveAssemblyReference.cache
+D:\MyTFS\ConsoleLab\Dapper\Dapper.Example\obj\Debug\Dapper.Example.exe
+D:\MyTFS\ConsoleLab\Dapper\Dapper.Example\obj\Debug\Dapper.Example.pdb
+D:\MyTFS\ConsoleLab\Dapper\Dapper.Example\obj\Debug\Dapper.Example.csproj.CoreCompileInputs.cache

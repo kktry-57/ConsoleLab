@@ -1,0 +1,7 @@
+D:\MyTFS\ConsoleLab\SQL\Sql\bin\Debug\Sql.exe.config
+D:\MyTFS\ConsoleLab\SQL\Sql\bin\Debug\Sql.exe
+D:\MyTFS\ConsoleLab\SQL\Sql\bin\Debug\Sql.pdb
+D:\MyTFS\ConsoleLab\SQL\Sql\obj\Debug\Sql.csproj.CoreCompileInputs.cache
+D:\MyTFS\ConsoleLab\SQL\Sql\obj\Debug\Sql.exe
+D:\MyTFS\ConsoleLab\SQL\Sql\obj\Debug\Sql.pdb
+D:\MyTFS\ConsoleLab\SQL\Sql\obj\Debug\Sql.csprojResolveAssemblyReference.cache

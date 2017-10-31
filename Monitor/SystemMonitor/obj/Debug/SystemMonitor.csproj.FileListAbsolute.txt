@@ -1,0 +1,11 @@
+D:\MyTFS\ConsoleLab\Monitor\SystemMonitor\bin\Debug\libs\OpenHardwareMonitorLib.dll
+D:\MyTFS\ConsoleLab\Monitor\SystemMonitor\bin\Debug\SystemMonitor.exe.config
+D:\MyTFS\ConsoleLab\Monitor\SystemMonitor\bin\Debug\SystemMonitor.exe
+D:\MyTFS\ConsoleLab\Monitor\SystemMonitor\bin\Debug\SystemMonitor.pdb
+D:\MyTFS\ConsoleLab\Monitor\SystemMonitor\bin\Debug\OpenHardwareMonitorLib.dll
+D:\MyTFS\ConsoleLab\Monitor\SystemMonitor\obj\Debug\SystemMonitor.csproj.CoreCompileInputs.cache
+D:\MyTFS\ConsoleLab\Monitor\SystemMonitor\obj\Debug\SystemMonitor.exe
+D:\MyTFS\ConsoleLab\Monitor\SystemMonitor\obj\Debug\SystemMonitor.pdb
+D:\MyTFS\ConsoleLab\Monitor\SystemMonitor\bin\Debug\Newtonsoft.Json.dll
+D:\MyTFS\ConsoleLab\Monitor\SystemMonitor\bin\Debug\Newtonsoft.Json.xml
+D:\MyTFS\ConsoleLab\Monitor\SystemMonitor\obj\Debug\SystemMonitor.csprojResolveAssemblyReference.cache

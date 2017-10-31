@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SysAlertValue>
+  <CPU>
+    <Usage>15</Usage>
+    <Temperature>20</Temperature>
+  </CPU>
+
+  <HD>
+  </HD>
+</SysAlertValue>

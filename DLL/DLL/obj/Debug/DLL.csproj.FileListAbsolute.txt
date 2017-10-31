@@ -1,0 +1,4 @@
+D:\MyTFS\ConsoleLab\DLL\DLL\bin\Debug\DLL.dll
+D:\MyTFS\ConsoleLab\DLL\DLL\bin\Debug\DLL.pdb
+D:\MyTFS\ConsoleLab\DLL\DLL\obj\Debug\DLL.dll
+D:\MyTFS\ConsoleLab\DLL\DLL\obj\Debug\DLL.pdb

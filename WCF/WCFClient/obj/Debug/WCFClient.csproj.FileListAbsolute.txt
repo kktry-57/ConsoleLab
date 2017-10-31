@@ -1,0 +1,8 @@
+D:\MyTFS\ConsoleLab\WCF\WCFClient\bin\Debug\WCFClient.exe.config
+D:\MyTFS\ConsoleLab\WCF\WCFClient\bin\Debug\WCFClient.exe
+D:\MyTFS\ConsoleLab\WCF\WCFClient\bin\Debug\WCFClient.pdb
+D:\MyTFS\ConsoleLab\WCF\WCFClient\bin\Debug\Services.dll
+D:\MyTFS\ConsoleLab\WCF\WCFClient\bin\Debug\Services.pdb
+D:\MyTFS\ConsoleLab\WCF\WCFClient\obj\Debug\WCFClient.csprojResolveAssemblyReference.cache
+D:\MyTFS\ConsoleLab\WCF\WCFClient\obj\Debug\WCFClient.exe
+D:\MyTFS\ConsoleLab\WCF\WCFClient\obj\Debug\WCFClient.pdb

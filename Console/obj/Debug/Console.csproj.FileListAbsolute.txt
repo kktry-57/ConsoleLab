@@ -1,0 +1,5 @@
+D:\MyTFS\ConsoleLab\Console\bin\Debug\Console.exe.config
+D:\MyTFS\ConsoleLab\Console\bin\Debug\Console.exe
+D:\MyTFS\ConsoleLab\Console\bin\Debug\Console.pdb
+D:\MyTFS\ConsoleLab\Console\obj\Debug\Console.exe
+D:\MyTFS\ConsoleLab\Console\obj\Debug\Console.pdb

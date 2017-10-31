@@ -1,0 +1,5 @@
+D:\MyTFS\ConsoleLab\OperatorLab\bin\Debug\OperatorLab.dll
+D:\MyTFS\ConsoleLab\OperatorLab\bin\Debug\OperatorLab.pdb
+D:\MyTFS\ConsoleLab\OperatorLab\obj\Debug\OperatorLab.csprojResolveAssemblyReference.cache
+D:\MyTFS\ConsoleLab\OperatorLab\obj\Debug\OperatorLab.dll
+D:\MyTFS\ConsoleLab\OperatorLab\obj\Debug\OperatorLab.pdb

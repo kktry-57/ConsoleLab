@@ -1,0 +1,14 @@
+D:\MyTFS\ConsoleLab\Line\LineCenter\obj\Debug\LineCenter.csprojResolveAssemblyReference.cache
+D:\MyTFS\ConsoleLab\Line\LineCenter\obj\Debug\LineCenter.LineMessagePackage.resources
+D:\MyTFS\ConsoleLab\Line\LineCenter\obj\Debug\LineCenter.Properties.Resources.resources
+D:\MyTFS\ConsoleLab\Line\LineCenter\obj\Debug\LineCenter.csproj.GenerateResource.Cache
+D:\MyTFS\ConsoleLab\Line\LineCenter\obj\Debug\LineCenter.csproj.CoreCompileInputs.cache
+D:\MyTFS\ConsoleLab\Line\LineCenter\bin\Debug\LineCenter.exe.config
+D:\MyTFS\ConsoleLab\Line\LineCenter\bin\Debug\LineCenter.exe
+D:\MyTFS\ConsoleLab\Line\LineCenter\bin\Debug\LineCenter.pdb
+D:\MyTFS\ConsoleLab\Line\LineCenter\bin\Debug\LineMessagingAPISDK.dll
+D:\MyTFS\ConsoleLab\Line\LineCenter\bin\Debug\Newtonsoft.Json.dll
+D:\MyTFS\ConsoleLab\Line\LineCenter\bin\Debug\LineMessagingAPISDK.pdb
+D:\MyTFS\ConsoleLab\Line\LineCenter\bin\Debug\Newtonsoft.Json.xml
+D:\MyTFS\ConsoleLab\Line\LineCenter\obj\Debug\LineCenter.exe
+D:\MyTFS\ConsoleLab\Line\LineCenter\obj\Debug\LineCenter.pdb

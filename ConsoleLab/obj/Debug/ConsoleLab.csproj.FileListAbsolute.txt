@@ -1,0 +1,12 @@
+D:\MyTFS\ConsoleLab\ConsoleLab\bin\Debug\ConsoleLab.exe.config
+D:\MyTFS\ConsoleLab\ConsoleLab\bin\Debug\ConsoleLab.exe
+D:\MyTFS\ConsoleLab\ConsoleLab\bin\Debug\ConsoleLab.pdb
+D:\MyTFS\ConsoleLab\ConsoleLab\bin\Debug\delegateLab.dll
+D:\MyTFS\ConsoleLab\ConsoleLab\bin\Debug\InheritanceLab.dll
+D:\MyTFS\ConsoleLab\ConsoleLab\bin\Debug\OperatorLab.dll
+D:\MyTFS\ConsoleLab\ConsoleLab\bin\Debug\delegateLab.pdb
+D:\MyTFS\ConsoleLab\ConsoleLab\bin\Debug\InheritanceLab.pdb
+D:\MyTFS\ConsoleLab\ConsoleLab\bin\Debug\OperatorLab.pdb
+D:\MyTFS\ConsoleLab\ConsoleLab\obj\Debug\ConsoleLab.csprojResolveAssemblyReference.cache
+D:\MyTFS\ConsoleLab\ConsoleLab\obj\Debug\ConsoleLab.exe
+D:\MyTFS\ConsoleLab\ConsoleLab\obj\Debug\ConsoleLab.pdb

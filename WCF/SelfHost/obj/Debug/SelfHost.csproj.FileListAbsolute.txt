@@ -1,0 +1,8 @@
+D:\MyTFS\ConsoleLab\WCF\SelfHost\bin\Debug\SelfHost.exe.config
+D:\MyTFS\ConsoleLab\WCF\SelfHost\bin\Debug\SelfHost.exe
+D:\MyTFS\ConsoleLab\WCF\SelfHost\bin\Debug\SelfHost.pdb
+D:\MyTFS\ConsoleLab\WCF\SelfHost\bin\Debug\Services.dll
+D:\MyTFS\ConsoleLab\WCF\SelfHost\bin\Debug\Services.pdb
+D:\MyTFS\ConsoleLab\WCF\SelfHost\obj\Debug\SelfHost.csprojResolveAssemblyReference.cache
+D:\MyTFS\ConsoleLab\WCF\SelfHost\obj\Debug\SelfHost.exe
+D:\MyTFS\ConsoleLab\WCF\SelfHost\obj\Debug\SelfHost.pdb

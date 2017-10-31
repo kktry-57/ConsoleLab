@@ -1,0 +1,6 @@
+D:\MyTFS\ConsoleLab\PerformanceTest\bin\Debug\PerformanceTest.exe.config
+D:\MyTFS\ConsoleLab\PerformanceTest\obj\Debug\PerformanceTest.csprojResolveAssemblyReference.cache
+D:\MyTFS\ConsoleLab\PerformanceTest\bin\Debug\PerformanceTest.exe
+D:\MyTFS\ConsoleLab\PerformanceTest\bin\Debug\PerformanceTest.pdb
+D:\MyTFS\ConsoleLab\PerformanceTest\obj\Debug\PerformanceTest.exe
+D:\MyTFS\ConsoleLab\PerformanceTest\obj\Debug\PerformanceTest.pdb

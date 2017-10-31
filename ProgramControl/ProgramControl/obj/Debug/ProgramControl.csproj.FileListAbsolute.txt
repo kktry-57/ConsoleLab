@@ -1,0 +1,6 @@
+D:\MyTFS\ConsoleLab\ProgramControl\ProgramControl\bin\Debug\ProgramControl.exe.config
+D:\MyTFS\ConsoleLab\ProgramControl\ProgramControl\bin\Debug\ProgramControl.exe
+D:\MyTFS\ConsoleLab\ProgramControl\ProgramControl\bin\Debug\ProgramControl.pdb
+D:\MyTFS\ConsoleLab\ProgramControl\ProgramControl\obj\Debug\ProgramControl.csprojResolveAssemblyReference.cache
+D:\MyTFS\ConsoleLab\ProgramControl\ProgramControl\obj\Debug\ProgramControl.exe
+D:\MyTFS\ConsoleLab\ProgramControl\ProgramControl\obj\Debug\ProgramControl.pdb

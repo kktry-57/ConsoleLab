@@ -1,0 +1,5 @@
+D:\MyTFS\ConsoleLab\InheritanceLab\bin\Debug\InheritanceLab.dll
+D:\MyTFS\ConsoleLab\InheritanceLab\bin\Debug\InheritanceLab.pdb
+D:\MyTFS\ConsoleLab\InheritanceLab\obj\Debug\InheritanceLab.csprojResolveAssemblyReference.cache
+D:\MyTFS\ConsoleLab\InheritanceLab\obj\Debug\InheritanceLab.dll
+D:\MyTFS\ConsoleLab\InheritanceLab\obj\Debug\InheritanceLab.pdb

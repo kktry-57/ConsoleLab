@@ -1,0 +1,6 @@
+D:\MyTFS\ConsoleLab\Socket\SocketSevert\bin\Debug\SocketSevert.exe.config
+D:\MyTFS\ConsoleLab\Socket\SocketSevert\bin\Debug\SocketSevert.exe
+D:\MyTFS\ConsoleLab\Socket\SocketSevert\bin\Debug\SocketSevert.pdb
+D:\MyTFS\ConsoleLab\Socket\SocketSevert\obj\Debug\SocketSevert.exe
+D:\MyTFS\ConsoleLab\Socket\SocketSevert\obj\Debug\SocketSevert.pdb
+D:\MyTFS\ConsoleLab\Socket\SocketSevert\obj\Debug\SocketSever.csprojResolveAssemblyReference.cache

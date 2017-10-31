@@ -1,0 +1,8 @@
+D:\MyTFS\ConsoleLab\DLL\Init\bin\Debug\Init.exe.config
+D:\MyTFS\ConsoleLab\DLL\Init\bin\Debug\Init.exe
+D:\MyTFS\ConsoleLab\DLL\Init\bin\Debug\Init.pdb
+D:\MyTFS\ConsoleLab\DLL\Init\obj\Debug\Init.exe
+D:\MyTFS\ConsoleLab\DLL\Init\obj\Debug\Init.pdb
+D:\MyTFS\ConsoleLab\DLL\Init\bin\Debug\DLL.dll
+D:\MyTFS\ConsoleLab\DLL\Init\bin\Debug\DLL.pdb
+D:\MyTFS\ConsoleLab\DLL\Init\obj\Debug\Init.csprojResolveAssemblyReference.cache

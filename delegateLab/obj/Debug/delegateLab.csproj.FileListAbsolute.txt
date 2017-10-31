@@ -1,0 +1,5 @@
+D:\MyTFS\ConsoleLab\delegateLab\bin\Debug\delegateLab.dll
+D:\MyTFS\ConsoleLab\delegateLab\bin\Debug\delegateLab.pdb
+D:\MyTFS\ConsoleLab\delegateLab\obj\Debug\delegateLab.csprojResolveAssemblyReference.cache
+D:\MyTFS\ConsoleLab\delegateLab\obj\Debug\delegateLab.dll
+D:\MyTFS\ConsoleLab\delegateLab\obj\Debug\delegateLab.pdb

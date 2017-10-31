@@ -1,0 +1,8 @@
+D:\MyTFS\ConsoleLab\XML\XmlTest\bin\Debug\XmlTest.exe.config
+D:\MyTFS\ConsoleLab\XML\XmlTest\bin\Debug\XmlTest.exe
+D:\MyTFS\ConsoleLab\XML\XmlTest\bin\Debug\XmlTest.pdb
+D:\MyTFS\ConsoleLab\XML\XmlTest\obj\Debug\XmlTest.csprojResolveAssemblyReference.cache
+D:\MyTFS\ConsoleLab\XML\XmlTest\obj\Debug\XmlTest.csproj.CoreCompileInputs.cache
+D:\MyTFS\ConsoleLab\XML\XmlTest\obj\Debug\XmlTest.exe
+D:\MyTFS\ConsoleLab\XML\XmlTest\obj\Debug\XmlTest.pdb
+D:\MyTFS\ConsoleLab\XML\XmlTest\bin\Debug\Setting.xml

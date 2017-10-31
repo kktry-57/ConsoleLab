@@ -1,0 +1,9 @@
+D:\MyTFS\ConsoleLab\WCF\ServicesTests\bin\Debug\ServicesTests.dll
+D:\MyTFS\ConsoleLab\WCF\ServicesTests\bin\Debug\ServicesTests.pdb
+D:\MyTFS\ConsoleLab\WCF\ServicesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\MyTFS\ConsoleLab\WCF\ServicesTests\bin\Debug\Services.dll
+D:\MyTFS\ConsoleLab\WCF\ServicesTests\bin\Debug\Services.pdb
+D:\MyTFS\ConsoleLab\WCF\ServicesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\MyTFS\ConsoleLab\WCF\ServicesTests\obj\Debug\ServicesTests.csprojResolveAssemblyReference.cache
+D:\MyTFS\ConsoleLab\WCF\ServicesTests\obj\Debug\ServicesTests.dll
+D:\MyTFS\ConsoleLab\WCF\ServicesTests\obj\Debug\ServicesTests.pdb

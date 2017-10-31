@@ -1,0 +1,8 @@
+D:\MyTFS\ConsoleLab\Init\bin\Debug\Init.exe.config
+D:\MyTFS\ConsoleLab\Init\bin\Debug\Init.exe
+D:\MyTFS\ConsoleLab\Init\bin\Debug\Init.pdb
+D:\MyTFS\ConsoleLab\Init\obj\Debug\Init.csprojResolveAssemblyReference.cache
+D:\MyTFS\ConsoleLab\Init\obj\Debug\Init.Properties.Resources.resources
+D:\MyTFS\ConsoleLab\Init\obj\Debug\Init.csproj.GenerateResource.Cache
+D:\MyTFS\ConsoleLab\Init\obj\Debug\Init.exe
+D:\MyTFS\ConsoleLab\Init\obj\Debug\Init.pdb

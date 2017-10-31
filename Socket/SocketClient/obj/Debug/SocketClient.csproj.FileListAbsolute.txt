@@ -1,0 +1,6 @@
+D:\MyTFS\ConsoleLab\Socket\SocketClient\bin\Debug\SocketClient.exe.config
+D:\MyTFS\ConsoleLab\Socket\SocketClient\bin\Debug\SocketClient.exe
+D:\MyTFS\ConsoleLab\Socket\SocketClient\bin\Debug\SocketClient.pdb
+D:\MyTFS\ConsoleLab\Socket\SocketClient\obj\Debug\SocketClient.exe
+D:\MyTFS\ConsoleLab\Socket\SocketClient\obj\Debug\SocketClient.pdb
+D:\MyTFS\ConsoleLab\Socket\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
