@@ -1,0 +1,7 @@
+[submodule "libs/Syscom.Core"]
+	path = libs/Syscom.Core
+	url = http://172.16.210.110:8080/tfs/project.amc/_git/Syscom.Core 
+        branch = v1
+[submodule "libs/Syscom.AMC.App.Web"]
+	path = libs/Syscom.AMC.App.Web
+	url = http://172.16.210.110:8080/tfs/project.amc/_git/Syscom.AMC.App.Web
